@@ -1,3 +1,3 @@
 # second
 
-![alt text](2 задание.png)
+![alt text](second.PNG)
